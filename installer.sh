@@ -1,10 +1,10 @@
 #!/bin/bash
-#npm install --save-dev eslint-config-rallycoding
+npm install --save-dev eslint-config-rallycoding
 
-#npm install --save react-native-router-flux
-#npm install --save react-native-webview-bridge
-#npm install --save react-native-vector-icons
-#npm install --save react-redux redux redux-thunk
+npm install --save react-native-router-flux
+npm install --save react-native-webview-bridge
+npm install --save react-native-vector-icons
+npm install --save react-redux redux redux-thunk
 
 # mkdir
 mkdir ./src
@@ -59,6 +59,6 @@ ROM
 cat > ./src/reducers/index.js <<- CVB
 import { combineReducers } from 'redux';
 export default combineReducers({
-  
+
 });
 CVB
