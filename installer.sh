@@ -55,3 +55,10 @@ cat > ./.eslintrc <<- ROM
   }
 }
 ROM
+
+cat > ./src/reducers/index.js <<- CVB
+import { combineReducers } from 'redux';
+export default combineReducers({
+  
+});
+CVB
