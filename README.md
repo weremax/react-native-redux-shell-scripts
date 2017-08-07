@@ -2,13 +2,13 @@
 
 ### installer.sh
 * This script installs the following modules.
-** eslint-config-rallycoding
-** react-native-router-flux
-** react-native-webview-bridge
-** react-native-vector-icons
-** react-redux
-** redux
-** redux-thunk
+  * eslint-config-rallycoding
+  * react-native-router-flux
+  * react-native-webview-bridge
+  * react-native-vector-icons
+  * react-redux
+  * redux
+  * redux-thunk
 * creates the directory structure
 
 ### create_redux.sh
