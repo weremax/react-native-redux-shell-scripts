@@ -12,6 +12,8 @@
 * creates the directory structure
   * src
     * actions
+      * index.js
+      * types.js
     * components
       * common
       * images
@@ -19,6 +21,7 @@
       * private
       * public
     * reducers
+      * index.js
     * App.js
     * Router.js
 
