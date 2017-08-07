@@ -1,6 +1,16 @@
 # react-native-redux-shell-scripts
 
-### Information
+### installer.sh
+This script installs the following modules.
+* eslint-config-rallycoding
+* react-native-router-flux
+* react-native-webview-bridge
+* react-native-vector-icons
+* react-redux
+* redux
+* redux-thunk
+
+### create_redux.sh
 These are some scripts for use with React Native and Redux to help set things up faster.
 These files should be placed in the root of the React Native project where your package.json file resides.
 
