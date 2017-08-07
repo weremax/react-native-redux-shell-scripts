@@ -1,14 +1,15 @@
 # react-native-redux-shell-scripts
 
 ### installer.sh
-This script installs the following modules.
-* eslint-config-rallycoding
-* react-native-router-flux
-* react-native-webview-bridge
-* react-native-vector-icons
-* react-redux
-* redux
-* redux-thunk
+* This script installs the following modules.
+** eslint-config-rallycoding
+** react-native-router-flux
+** react-native-webview-bridge
+** react-native-vector-icons
+** react-redux
+** redux
+** redux-thunk
+* creates the directory structure
 
 ### create_redux.sh
 These are some scripts for use with React Native and Redux to help set things up faster.
