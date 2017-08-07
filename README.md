@@ -1,4 +1,6 @@
 # react-native-redux-shell-scripts
+These are some scripts for use with React Native and Redux to help set things up faster.
+These files should be placed in the root of the React Native project where your package.json file resides.
 
 ### installer.sh
 * This script installs the following modules.
@@ -26,9 +28,6 @@
     * Router.js
 
 ### create_redux.sh
-These are some scripts for use with React Native and Redux to help set things up faster.
-These files should be placed in the root of the React Native project where your package.json file resides.
-
 Files will be written to the following locations
 * src/actions/
 * src/reducers/
