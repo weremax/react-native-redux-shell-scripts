@@ -10,6 +10,17 @@
   * redux
   * redux-thunk
 * creates the directory structure
+  * src
+    * actions
+    * components
+      * common
+      * images
+      * libraries
+      * private
+      * public
+    * reducers
+    * App.js
+    * Router.js
 
 ### create_redux.sh
 These are some scripts for use with React Native and Redux to help set things up faster.
