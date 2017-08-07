@@ -2,6 +2,7 @@
 
 ### Information
 These are some scripts for use with React Native and Redux to help set things up faster.
+These files should be placed in the root of the React Native project where your package.json file resides.
 
 Files will be written to the following locations
 * src/actions/
