@@ -6,7 +6,6 @@ These files should be placed in the root of the React Native project where your 
 This script installs the following modules.
 * eslint-config-rallycoding
 * react-native-router-flux
-* react-native-webview-bridge
 * react-native-vector-icons
 * react-redux
 * redux
